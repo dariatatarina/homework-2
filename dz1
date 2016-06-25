@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+	<title>My First page</title>	
+</head>
+<body>
+
+<h1 align = "center"> Татарина Дарья Сергеевна </h1>
+<style>
+   .fig {
+    text-align: center;
+   }
+   </style>
+   <p class="fig"><img src= "img/P1010086.jpg" ></p>
+    <p align="justify">Студентка курса GoFrontend</p>
+<hr>
+    <p align="justify"> Хочу учить фронтенд, потому что: </p>
+<ul>
+    <li>Хочу развиваться</li>
+    <li>Я всегда что-то учу</li>
+    <li>Хочу все знать</li>
+</ul>
+<hr>
+    <p align="justify"> Мой контактный телефон </p>
+    <p align="justify"> +380509159484 </p>
+    <p align="justify"> Мой профиль в Фейсбуке</p>
+    <a href = "https://www.facebook.com/daryatata?ref=bookmarks"target="_blank" >facebook.com </a>
+<hr>
+   <p align="justify"> Мой фидбек:</p>
+   <p align="justify"> Все ok!</p>
+
+
+
+</body>
+</html>
+
